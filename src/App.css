@@ -1,0 +1,22 @@
+.nav-link {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    color: rgba(32, 32, 32, 1) !important;
+    margin-right: 3px;
+    padding: 5px ;
+    border-bottom: 3px solid transparent !important;
+    transition: all 0.3s ease-in-out !important;
+}
+.nav-link:hover{
+    border: rgba(0, 129, 57, 1) !important;
+}
+.icons{
+    color: rgba(0, 129, 57, 1) !important;
+    font-size: 15px !important;
+}
+#root{
+    display: none;
+}
+.horse-img {
+    width: 100px !important;
+}
