@@ -14,9 +14,15 @@
     color: rgba(0, 129, 57, 1) !important;
     font-size: 15px !important;
 }
-#root{
-    display: none;
-}
+
 .horse-img {
-    width: 100px !important;
+    width: 60% !important;      
+}
+.backrasm{
+    background: url(./assets/foto/background.png) !important;
+       
+height: 948px;
+
+
+
 }
