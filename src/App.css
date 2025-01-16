@@ -16,13 +16,26 @@
 }
 
 .horse-img {
-    width: 60% !important;      
+    width: 70% !important;      
 }
 .backrasm{
     background: url(./assets/foto/background.png) !important;
-       
-height: 948px;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+} 
+.text{
+    color: #7E7E7E;
 
-
-
+}
+.green{
+   color: #008139;
+   font-family: Philosopher;
+   font-size: 42px;
+   font-weight: 700;
+   line-height: 67.2px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+    
 }

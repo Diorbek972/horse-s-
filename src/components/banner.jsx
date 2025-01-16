@@ -5,7 +5,8 @@ export default function banner() {
   return (
 
 
-    <div className="container ">
+<div className="">
+<div className="container ">
       <div className="row align-items-center">
         <div className="col-md-6 align-items-center">
           <h1 className='mb-5'>Окунитесь в мир
@@ -19,6 +20,7 @@ export default function banner() {
         </div>
       </div>
     </div>
+</div>
 
   )
 }

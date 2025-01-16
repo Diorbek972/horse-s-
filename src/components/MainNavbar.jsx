@@ -10,10 +10,10 @@ import logo from "../assets/foto/logo.png"
 //icons
 import { FaPhoneAlt } from "react-icons/fa";
 
-function mainNavbar(props) {
+function MainNavbar(props) {
     return (
         <div>
-              <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
+              <Navbar collapseOnSelect expand="lg" className="">
       <Container className=' align-items-center'>
         <Navbar.Brand href="#home"><img src={logo} alt="" className='img-fluid'/></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -34,4 +34,4 @@ function mainNavbar(props) {
     );
 }
                           
-export default mainNavbar;
+export default MainNavbar;
