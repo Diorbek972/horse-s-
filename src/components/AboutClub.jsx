@@ -11,7 +11,7 @@ export default function Club() {
         <div className="col-md-6 ">
     <img src={boyhorse} className='w-100' alt="" />
         </div>
-        <div className="col-md-6">a
+        <div className="col-md-6">
     <div className='row'>
         <div className="col-md-6">
         <AboutClubs number={"1100+"} text={"Довольный посетителей за последний год"}/>
