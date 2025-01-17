@@ -4,14 +4,14 @@ import boyhorse from '../assets/foto/otdagibola.png'
 import AboutClubs from './AboutClubs'
 export default function Club() {
   return (
-    <div>
+    <div className='my-5'>
       <div className="container">
         <h1 className='text-center'> О нашем клубе</h1>
         <div className='row'>
         <div className="col-md-6 ">
     <img src={boyhorse} className='w-100' alt="" />
         </div>
-        <div className="col-md-6">
+        <div className="col-md-6">a
     <div className='row'>
         <div className="col-md-6">
         <AboutClubs number={"1100+"} text={"Довольный посетителей за последний год"}/>
